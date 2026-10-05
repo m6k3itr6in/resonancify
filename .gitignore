@@ -1,0 +1,12 @@
+data/
+*.csv
+*.zip
+
+models/*.joblib
+models/*.pkl
+
+venv/
+.env
+__pycache__/
+.marimo/
+.ipynb_checkpoints/
